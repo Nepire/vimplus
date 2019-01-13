@@ -111,7 +111,7 @@ call plug#begin('~/.vim/plugged')
 Plug 'chxuan/cpp-mode'
 Plug 'chxuan/vim-edit'
 Plug 'chxuan/change-colorscheme'
-Plug 'chxuan/prepare-code'
+Plug 'nepire/prepare-code'
 Plug 'chxuan/vim-buffer'
 Plug 'chxuan/vimplus-startify'
 Plug 'chxuan/tagbar'
